@@ -28,13 +28,11 @@ class MyApp extends StatelessWidget {
       title: 'Task Two',
       theme: ThemeData(
           primaryColor: Colors.blue,
-          // This should be applied globally
           hintColor: Colors.blueAccent,
-          // Accent color for floating buttons, etc.
           buttonTheme: const ButtonThemeData(
-            buttonColor: Colors.blue, // Changes button color to blue
+            buttonColor: Colors.blue,
             textTheme: ButtonTextTheme
-                .primary, // Ensures text color adapts to blue buttons
+                .primary,
           )),
       initialRoute: '/login',
       routes: {
