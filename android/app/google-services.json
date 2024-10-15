@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "856927330532",
+    "project_id": "tugas-kedua-6971d",
+    "storage_bucket": "tugas-kedua-6971d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856927330532:android:3b2e4e3b9cd93a2c354cf1",
+        "android_client_info": {
+          "package_name": "com.example.tugas_kedua"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcVIsE2_LXLjBOB69RzPdUTvJQgRUxVnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
